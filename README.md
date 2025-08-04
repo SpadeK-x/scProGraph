@@ -93,3 +93,20 @@ Figure below presents the generation results of selected gene subgraphs when app
 We employed the Protein-Protein Interaction network data collected by Michelle M. Li to systematically compare the PPI networks of Macrophage, Fibroblast, and Monocyte cells in dataset E-MTAB-8107(2). 
 ![file:///src/fig1.png](https://github.com/SpadeK-x/scProGraph/blob/main/src/fig1.png)
 ![file:///src/fig2.png](https://github.com/SpadeK-x/scProGraph/blob/main/src/fig2.png)
+
+
+## Data Available
+Datasets can be downloaded at:
+
+
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE142213
+
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE132509
+
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE154109
+
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE143423
+
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE150660
+
+https://www.ebi.ac.uk/biostudies/ArrayExpress/studies/E-MTAB-8107/sdrf
