@@ -96,17 +96,25 @@ We employed the Protein-Protein Interaction network data collected by Michelle M
 
 
 ## Data Available
+
 Datasets can be downloaded at:
 
+LEUKEMIA DATASET:
 
-https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE142213
+  https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE142213
+  
+  https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE132509
+  
+  https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE154109
+  
+BREAST INVASIVE CARCINOMA DATASET:
 
-https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE132509
+  https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE143423
+  
+  https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE150660
+  
+  https://www.ebi.ac.uk/biostudies/ArrayExpress/studies/E-MTAB-8107/sdrf
 
-https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE154109
+COLORECTAL CANCER DATASET:
 
-https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE143423
-
-https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE150660
-
-https://www.ebi.ac.uk/biostudies/ArrayExpress/studies/E-MTAB-8107/sdrf
+  https://www.ebi.ac.uk/biostudies/ArrayExpress/studies/E-MTAB-8107/sdrf
